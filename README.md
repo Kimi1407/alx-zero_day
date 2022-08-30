@@ -1,3 +1,3 @@
 My first readme
-AND IT'S DONE.
+AND IT'S DONE
 
